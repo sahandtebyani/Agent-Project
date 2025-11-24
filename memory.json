@@ -3,5 +3,6 @@
     "destination": null,
     "depart_date": null,
     "return_date": null,
-    "budget": null
+    "budget": null,
+    "hotel_rating_min": null
 }
